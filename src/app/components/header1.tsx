@@ -53,7 +53,7 @@ export default function Header1() {
                 src="https://cdn.builder.io/api/v1/image/assets/TEMP/6ef2040ee612e128afd4c211c7e1332da13ae0757bbda90eabaa3a4781436798?"
                 className="shrink-0 my-auto aspect-square w-[18px]"
                 />
-                <div>yummy@Asmita'sKitchen</div>
+                <div>yummy@AsmitasKitchen</div>
             </div>
             </div>
             <div className="flex gap-1">

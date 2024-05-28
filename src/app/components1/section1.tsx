@@ -28,7 +28,7 @@ export default function Section1() {
                 <div className="mt-6 text-lg leading-7 max-md:max-w-full">
                     Our story began with a vision to create a unique dining experience
                     that merges fine dining, exceptional service, and a vibrant
-                    ambiance. Rooted in city's rich culinary culture, we aim to honor
+                    ambiance. Rooted in citys rich culinary culture, we aim to honor
                     our local roots while infusing a global palate.
                 </div>
                 <div
