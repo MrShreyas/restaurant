@@ -20,7 +20,7 @@ export default function Footer() {
                         src="https://cdn.builder.io/api/v1/image/assets/TEMP/ea73a94d8c64e12927b51b2e23af8b4457a9dab7f28bebd30b58a5cde6281132?"
                         className="shrink-0 w-14 aspect-[1.02]"
                     />
-                    <div className="flex-auto my-auto italic">Bistro Bliss</div>
+                    <div className="flex-auto my-auto italic">Asmita's Kitchen</div>
                     </div>
                     <div className="mt-8 text-base leading-6 text-stone-400">
                     In the new era of technology we look a in the future with

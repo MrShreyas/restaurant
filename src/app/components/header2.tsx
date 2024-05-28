@@ -35,7 +35,7 @@ export default function Header2() {
             src="https://cdn.builder.io/api/v1/image/assets/TEMP/6a1e7ff32c6e74a934ff05af3cdaaa8a801f2af2e2d891f14c028eb854975e4c?"
             className="shrink-0 w-14 aspect-[1.02]"
             />
-            <div className="flex-auto my-auto italic">Bistro Bliss</div>
+            <div className="flex-auto my-auto italic">Asmita's Kitchen</div>
         </div>
         <div
             className="flex gap-5 justify-between items-center self-stretch my-auto font-medium whitespace-nowrap text-stone-800"
