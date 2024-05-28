@@ -8,8 +8,8 @@ export default function BookTable() {
             <SectionB1></SectionB1>
             <img
             loading="lazy"
-            srcset="..."
-            class="w-full aspect-[2.08] max-md:max-w-full"/>
+            src="..."
+            className="w-full aspect-[2.08] max-md:max-w-full"/>
 
         </div>
     )
