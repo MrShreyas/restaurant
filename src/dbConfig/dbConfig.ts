@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 export async function connect() {
   try {
-    mongoose.connect("mongodb+srv://youtube:hellouser@cluster0.wbjacr4.mongodb.net/");
+    mongoose.connect(process.env.MONGO_URI!);
     const connecton = mongoose.connection;
     connecton.on("connected", () => {
       console.log("MongoDB connected succesfullly");
